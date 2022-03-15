@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Support Ukraine Badge](https://img.shields.io/badge/Support%20Ukraine-Now-ffd700?labelColor=0057b7)](https://war.ukraine.ua/)
+[![Stand With Ukraine Badge](https://img.shields.io/badge/Stand%20Wtih-Ukraine-ffd700?labelColor=0057b7)](https://war.ukraine.ua/) 💙💛
 <!--
 **eggwaffle/eggwaffle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
