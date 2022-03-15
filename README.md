@@ -20,6 +20,7 @@ I am a self-taught web developer
 </span>
 
 # Support Ukraine 💙💛
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 ## Official sources
 [War in Ukraine](https://war.ukraine.ua/) – the official website created and verified by the Ministry of Foreign Affairs of Ukraine. 
 
