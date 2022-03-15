@@ -4,7 +4,7 @@
 
 I am a self-taught web developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eggwaffle)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eggwaffle&bg_color=555555&text_color=ffffff&title_color=ffffff&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
 # Connect with me <img src="https://media.giphy.com/media/loLcNe8Yi5xWGm6JhI/giphy.gif" width="30" />
 <span>
