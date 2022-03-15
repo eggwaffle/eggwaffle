@@ -1,6 +1,6 @@
 
-# Stand with Ukraine [![Stand With Ukraine Badge](https://img.shields.io/badge/Stand%20Wtih-Ukraine-ffd700?labelColor=0057b7)](https://war.ukraine.ua/) 
-
+# Stand with Ukraine 
+[![Stand With Ukraine Badge](https://img.shields.io/badge/Stand%20Wtih-Ukraine-ffd700?labelColor=0057b7)](https://war.ukraine.ua/) 
 ## Reliable News Sources 💙💛
 ### Official sources
 [War in Ukraine](https://war.ukraine.ua/) – the official website created and verified by the Ministry of Foreign Affairs of Ukraine. 
